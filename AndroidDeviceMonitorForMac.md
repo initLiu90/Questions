@@ -14,4 +14,4 @@
 
 # mac Android Device monitor 启动之后什么也不显示
 
-然后用户目录下的~/.android/monitor-workspace 的目录
+删除用户目录下的~/.android/monitor-workspace 的目录
